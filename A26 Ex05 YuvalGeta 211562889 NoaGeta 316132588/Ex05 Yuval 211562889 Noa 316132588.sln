@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36705.20 d17.14
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11408.102 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05_Logic", "Ex05_Logic\Ex05_Logic.csproj", "{227FA762-2EDD-48D8-8AB9-1DC0AAF0E79A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05_WindowsUI", "Ex05_WindowsUI\Ex05_WindowsUI.csproj", "{C4BD3F2C-8115-4489-A584-64BE7BDFA803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex02_UI", "Ex02_UI\Ex02_UI.csproj", "{EFFAA50F-124A-4000-9591-9DA531FF20A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C4BD3F2C-8115-4489-A584-64BE7BDFA803}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4BD3F2C-8115-4489-A584-64BE7BDFA803}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4BD3F2C-8115-4489-A584-64BE7BDFA803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFFAA50F-124A-4000-9591-9DA531FF20A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFAA50F-124A-4000-9591-9DA531FF20A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFAA50F-124A-4000-9591-9DA531FF20A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFAA50F-124A-4000-9591-9DA531FF20A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
